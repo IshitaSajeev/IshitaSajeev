@@ -4,7 +4,7 @@
 
  Aspiring AI Engineer | Data Science & Web Enthusiast | Python Developer
 
-🎓 Third-Year Computer Engineering Student | 🏫 SPPU  
+🎓 Final-Year Computer Engineering Student | 🏫 SPPU  
 🎯 Passionate about solving real-world problems using *AI + Accessibility*  
 💡 Currently working on: Real-Time Object Detection, Edge AI, IoT-based Assistive Tech
 
