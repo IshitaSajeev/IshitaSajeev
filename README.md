@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer. </h3>
 
 
- Aspiring AI Engineer | Data Science & ML Enthusiast | Python Developer
+ Aspiring AI Engineer | Data Science & Web Enthusiast | Python Developer
 
 🎓 Third-Year Computer Engineering Student | 🏫 SPPU  
 🎯 Passionate about solving real-world problems using *AI + Accessibility*  
