@@ -6,7 +6,7 @@
 
 🎓 Final-Year Computer Engineering Student | 🏫 SPPU  
 🎯 Passionate about solving real-world problems using *AI + Accessibility*  
-💡 Currently working on: Real-Time Object Detection, Edge AI, IoT-based Assistive Tech
+💡 Currently working on: Real-Time Object Detection, IoT-based Assistive Tech
 
 ---
 
