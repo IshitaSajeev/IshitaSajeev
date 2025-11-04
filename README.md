@@ -28,7 +28,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitaSajeev)](https://github.com/IshitaSajeev/github-readme-stats)
+![Ishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshitaSajeev&theme=dark&show_icons=true)
 
 
 ### 💬 Fun Fact
