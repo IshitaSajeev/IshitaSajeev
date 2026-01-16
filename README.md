@@ -9,6 +9,7 @@
 
 🎯 Actively preparing for Python Developer / Software Engineer (Fresher) roles.
 
+---
 
 🔹 What I Do
 - Develop backend logic using Python
