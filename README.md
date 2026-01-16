@@ -2,10 +2,9 @@
 <h3 align="center">Entry-Level Python Developer | Backend & Web Applications</h3>
 
 
- Aspiring AI Engineer | Data Science & Web Enthusiast | Python Developer
 
 🎓 Final-year Computer Engineering student (SPPU)
-🐍 Aspiring Python Developer with hands-on experience in building backend-driven web applications using Django & SQL.
+🐍 Aspiring Python Developer with hands-on experience in building backend-driven web applications using Python, Django, and SQL.
 🎯 Actively preparing for Python Developer / Software Engineer (Fresher) roles.
 
 🔹 What I Do
@@ -21,8 +20,6 @@
 - Improving backend development skills
 - Preparing for technical interviews
 
-🔹 Tech Stack:
-Python | Django | SQL | HTML | CSS | Bootstrap | Git | GitHub
 
 📌 I'm focused on learning by building real projects and improving every day.
 
@@ -30,10 +27,10 @@ Python | Django | SQL | HTML | CSS | Bootstrap | Git | GitHub
 
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
