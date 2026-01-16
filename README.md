@@ -4,8 +4,11 @@
 
 
 🎓 Final-year Computer Engineering student (SPPU)
+
 🐍 Aspiring Python Developer with hands-on experience in building backend-driven web applications using Python, Django, and SQL.
+
 🎯 Actively preparing for Python Developer / Software Engineer (Fresher) roles.
+
 
 🔹 What I Do
 - Develop backend logic using Python
@@ -13,6 +16,7 @@
 - Design & manage databases (MySQL /SQLite)
 - Write clean, readable, and beginner-friendly code
 - Learn by building real, practical projects
+
 
 🔹🌱 Currently:
 - Strengthening Python fundamentals & problem-solving
