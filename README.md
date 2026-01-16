@@ -1,18 +1,30 @@
-<h1 align="center"> Hi 👋, I'm Ishita </h1>
-<h3 align="center">A passionate software developer. </h3>
+<h1 align="center">Hi 👋, I'm Ishita</h1>
+<h3 align="center">Entry-Level Python Developer | Backend & Web Applications</h3>
 
 
  Aspiring AI Engineer | Data Science & Web Enthusiast | Python Developer
 
-🎓 Final-Year Computer Engineering Student | 🏫 SPPU  
-🎯 Passionate about solving real-world problems using *AI + Accessibility*  
-💡 Currently working on: Real-Time Object Detection, IoT-based Assistive Tech
+🎓 Final-year Computer Engineering student (SPPU)
+🐍 Aspiring Python Developer with hands-on experience in building backend-driven web applications using Django & SQL.
+🎯 Actively preparing for Python Developer / Software Engineer (Fresher) roles.
 
----
+🔹 What I Do
+- Develop backend logic using Python
+- Build web applications using Django
+- Design & manage databases (MySQL /SQLite)
+- Write clean, readable, and beginner-friendly code
+- Learn by building real, practical projects
 
-### 🌱 Currently Learning
-- React , TensorFlow, FLask
-- ML Algorithms, OpenCV with Mediapipe,
+🔹🌱 Currently:
+- Strengthening Python fundamentals & problem-solving
+- Building mini & real-world projects
+- Improving backend development skills
+- Preparing for technical interviews
+
+🔹 Tech Stack:
+Python | Django | SQL | HTML | CSS | Bootstrap | Git | GitHub
+
+📌 I'm focused on learning by building real projects and improving every day.
 
 ---
 
@@ -39,5 +51,5 @@
 
 
 ### 💬 Fun Fact
-> I love building tech that actually helps people.  
-> Making AI more *inclusive and real-world-ready* is where my heart is 💙
+> I love building tech that actually helps people.
+Turning ideas into working software is what excites me 🚀 
