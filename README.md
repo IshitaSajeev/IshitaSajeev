@@ -1,71 +1,173 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="Coding GIF" />
-  <h1>Hi 👋, I'm Ishita Sajeev</h1>
-  
-  **Final-Year CSE Student | Python & Backend Developer | Learning by Building 🚀**
-  
-  <p>
-    <a href="https://github.com/IshitaSajeev">
-      <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
-    </a>
-    <!-- Add LinkedIn, email, or portfolio badges here once ready -->
-  </p>
+
+# Hi, I'm Ishita Sajeev 👋
+
+### Backend Developer | Python • Django • Machine Learning
+
+Building intelligent backend systems, scalable web applications, and AI-powered solutions.
+
+<p>
+<a href="https://github.com/IshitaSajeev">
+<img src="https://img.shields.io/badge/GitHub-IshitaSajeev-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real+Problems"/>
+
 </div>
 
 ---
 
-### 🛠️ About Me
-I'm a passionate **Python backend developer** with hands-on experience building scalable web applications using **Django**, REST APIs, and databases. As a final-year Computer Engineering student, I focus on turning ideas into production-ready software through practical projects.
+# 💫 About Me
 
-- **Currently**: Strengthening backend architecture, ML integration, system design, and interview prep for Python Developer / Software Engineer (Fresher) roles.
-- **Philosophy**: Code clean. Ship fast. Learn by building real-world solutions. 💡
-- **Fun Fact**: I love creating tech that solves everyday problems — from smart tools to predictive dashboards. Turning caffeine into clean, maintainable code is my superpower. ☕
+I'm a **final-year Computer Engineering student** passionate about building software that solves real-world problems.
 
----
+I enjoy designing scalable backend systems, developing REST APIs, integrating Machine Learning into applications, and continuously improving my software engineering skills through hands-on projects.
 
-### 🔥 Tech Stack
+### Current Focus
 
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Tools & Databases**
-- **Backend**: Django REST Framework (DRF), Flask
-- **Databases**: MySQL, SQLite, PostgreSQL (learning)
-- **ML/Data**: Pandas, NumPy, Scikit-Learn, Linear Regression
-- **Frontend**: React, Tailwind CSS, Axios
-- **Others**: Git, GitHub, Linux, VS Code, Postman
+- Backend Development
+- Django & REST APIs
+- Machine Learning Integration
+- System Design
+- Cloud Deployment
+- Data Structures & Algorithms
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Tech Stack
 
-**FinTrack-Ai** — AI-Powered Predictive Financial Dashboard  
-*Django + React + Linear Regression*  
-An intelligent expense tracker that forecasts next-month budgets using historical data. Features real-time sync, beautiful dark-mode UI, and audit logs.  
-[→ View Repository](https://github.com/IshitaSajeev/FinTrack-Ai) | *Live Demo Coming Soon*
+<div align="center">
 
-**Mini Python Projects**  
-Collection of practical CLI tools and automation scripts (Todo App, Smart Calculator, Study Companion, Games). Built to master core Python and problem-solving.  
-[→ View Repository](https://github.com/IshitaSajeev/mini-python-projects)
+<img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,tailwind,mysql,postgres,sqlite,git,github,linux,vscode,postman"/>
 
-**More projects** in my [Repositories tab](https://github.com/IshitaSajeev?tab=repositories). Always iterating!
+</div>
 
 ---
 
-### 📈 GitHub Stats
+# 🌟 Featured Projects
 
-![Ishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshitaSajeev&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSajeev&layout=compact&theme=radical&hide_border=true)
+## 📊 FinTrack AI
+
+> AI-Powered Financial Dashboard
+
+**Tech Stack**
+
+Django • React • Machine Learning • REST APIs
+
+### Features
+
+- AI Budget Prediction
+- Expense Tracking
+- Interactive Dashboard
+- Audit Logs
+- Authentication
+- Responsive UI
+
+🔗 Repository
+
+https://github.com/IshitaSajeev/FinTrack-Ai
 
 ---
 
-### 🌱 Currently Learning & Building
-- Advanced Django & API design patterns
-- Cloud deployment (Docker, AWS basics)
-- System design & LeetCode-style problem solving
-- Contributing to open source
+## 🚨 Sentinel AI
 
-**Open to collaborations**, internships, or full-time opportunities in backend development!
+> Smart Emergency Assistance Platform
+
+**Tech Stack**
+
+Python • Django • Arduino • GPS • GSM
+
+### Features
+
+- One-touch SOS
+- Live GPS Tracking
+- Emergency SMS
+- Emergency Calling
+- AI Dashboard
+- Hardware + Software Integration
+
+---
+
+## 🐍 Mini Python Projects
+
+A collection of Python applications built while mastering core programming concepts.
+
+Projects include:
+
+- Todo Application
+- Calculator
+- Quiz Game
+- Automation Scripts
+- File Organizer
+- CLI Utilities
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready full-stack applications
+- Master Django REST Framework
+- Learn Docker & AWS
+- Strengthen DSA & System Design
+- Contribute to Open Source
+- Secure a Software Engineering role
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IshitaSajeev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSajeev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=IshitaSajeev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshitaSajeev&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💭 Developer Philosophy
+
+> *"Great software isn't built by writing more code.*
+>
+> *It's built by writing code that remains understandable, maintainable, and useful."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+If you enjoy any of my projects, feel free to ⭐ them or connect with me.
+
+**Always learning. Always building. Always improving. 🚀**
+
+</div>
