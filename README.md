@@ -50,49 +50,6 @@ My interests lie in backend development, REST API design, machine learning integ
 
 ---
 
-# 🚀 Featured Projects
-
-## 📊 FinTrack AI
-
-> **AI-Powered Personal Finance Dashboard**
-
-**Tech Stack**
-
-Python • Django • React • Machine Learning • REST APIs
-
-### Features
-
-- AI Budget Prediction
-- Expense Analytics
-- Interactive Dashboard
-- Secure Authentication
-- Audit Logs
-- Responsive UI
-
-🔗 **Repository**
-
-https://github.com/IshitaSajeev/FinTrack-Ai
-
----
-
-## 🚨 Sentinel AI
-
-> **Smart Emergency Assistance Platform**
-
-**Tech Stack**
-
-Python • Django • Arduino • GPS • GSM
-
-### Features
-
-- One-Touch Emergency SOS
-- Live GPS Tracking
-- Emergency SMS & Calling
-- AI Dashboard
-- Hardware + Software Integration
-
----
-
 ## 🐍 Python Projects Collection
 
 A growing collection of Python projects built to strengthen programming fundamentals and problem-solving skills.
