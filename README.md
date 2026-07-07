@@ -2,49 +2,49 @@
 
 # Hi, I'm Ishita Sajeev 👋
 
-### Backend Developer | Python • Django • Machine Learning
+### Backend Developer • Python • Django • Machine Learning
 
-Building intelligent backend systems, scalable web applications, and AI-powered solutions.
+Building scalable backend systems, AI-powered applications, and software that solves real-world problems.
 
 <p>
 <a href="https://github.com/IshitaSajeev">
-<img src="https://img.shields.io/badge/GitHub-IshitaSajeev-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-IshitaSajeev-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Machine+Learning+Enthusiast;Building+Projects+That+Solve+Real+Problems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Machine+Learning+Enthusiast;Building+Projects+That+Matter"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-I'm a **final-year Computer Engineering student** passionate about building software that solves real-world problems.
+I'm a **final-year Computer Engineering student** who enjoys building software from idea to deployment.
 
-I enjoy designing scalable backend systems, developing REST APIs, integrating Machine Learning into applications, and continuously improving my software engineering skills through hands-on projects.
+My interests lie in backend development, REST API design, machine learning integration, and scalable system architecture. I believe the best way to learn is by building complete projects that solve practical problems.
 
-### Current Focus
+### 🔥 Current Focus
 
-- Backend Development
-- Django & REST APIs
+- Backend Engineering
+- Django & Django REST Framework
 - Machine Learning Integration
 - System Design
-- Cloud Deployment
 - Data Structures & Algorithms
+- Docker & AWS
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
@@ -54,26 +54,26 @@ I enjoy designing scalable backend systems, developing REST APIs, integrating Ma
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## 📊 FinTrack AI
 
-> AI-Powered Financial Dashboard
+> **AI-Powered Personal Finance Dashboard**
 
 **Tech Stack**
 
-Django • React • Machine Learning • REST APIs
+Python • Django • React • Machine Learning • REST APIs
 
 ### Features
 
 - AI Budget Prediction
-- Expense Tracking
+- Expense Analytics
 - Interactive Dashboard
+- Secure Authentication
 - Audit Logs
-- Authentication
 - Responsive UI
 
-🔗 Repository
+🔗 **Repository**
 
 https://github.com/IshitaSajeev/FinTrack-Ai
 
@@ -81,7 +81,7 @@ https://github.com/IshitaSajeev/FinTrack-Ai
 
 ## 🚨 Sentinel AI
 
-> Smart Emergency Assistance Platform
+> **Smart Emergency Assistance Platform**
 
 **Tech Stack**
 
@@ -89,38 +89,36 @@ Python • Django • Arduino • GPS • GSM
 
 ### Features
 
-- One-touch SOS
+- One-Touch Emergency SOS
 - Live GPS Tracking
-- Emergency SMS
-- Emergency Calling
+- Emergency SMS & Calling
 - AI Dashboard
 - Hardware + Software Integration
 
 ---
 
-## 🐍 Mini Python Projects
+## 🐍 Python Projects Collection
 
-A collection of Python applications built while mastering core programming concepts.
+A growing collection of Python projects built to strengthen programming fundamentals and problem-solving skills.
 
 Projects include:
 
-- Todo Application
+- Todo Manager
 - Calculator
 - Quiz Game
-- Automation Scripts
 - File Organizer
+- Automation Scripts
 - CLI Utilities
 
 ---
 
-# 🎯 2026 Goals
+# 📌 Currently Building
 
-- Build production-ready full-stack applications
-- Master Django REST Framework
-- Learn Docker & AWS
-- Strengthen DSA & System Design
-- Contribute to Open Source
-- Secure a Software Engineering role
+- 🤖 AI-powered backend applications
+- 🌐 Production-ready REST APIs
+- 📚 Daily Data Structures & Algorithms practice
+- ☁️ Docker & AWS deployment skills
+- 🔓 Open Source contributions
 
 ---
 
@@ -128,9 +126,7 @@ Projects include:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IshitaSajeev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSajeev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshitaSajeev&theme=github_dark"/>
 
 </div>
 
@@ -138,36 +134,46 @@ Projects include:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=IshitaSajeev&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshitaSajeev&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshitaSajeev&theme=github_dark"/>
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
+# 💡 Why I Build
 
-<div align="center">
+I enjoy transforming ideas into real software.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshitaSajeev&theme=tokyo-night&hide_border=true"/>
-
-</div>
+Whether it's an AI-powered dashboard, a backend API, or an automation tool, my goal is to write clean, maintainable, and scalable code that creates practical value.
 
 ---
 
-# 💭 Developer Philosophy
+# 🤝 Let's Connect
 
-> *"Great software isn't built by writing more code.*
->
-> *It's built by writing code that remains understandable, maintainable, and useful."*
+<p align="center">
+
+<a href="https://github.com/IshitaSajeev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-If you enjoy any of my projects, feel free to ⭐ them or connect with me.
-
-**Always learning. Always building. Always improving. 🚀**
+*"Code. Learn. Build. Repeat."*
 
 </div>
