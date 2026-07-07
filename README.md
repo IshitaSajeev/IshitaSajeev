@@ -79,17 +79,7 @@ Projects include:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IshitaSajeev&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IshitaSajeev&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IshitaSajeev&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishitasajeev&theme=github_dark"/>
 
 </div>
 
@@ -100,26 +90,6 @@ Projects include:
 I enjoy transforming ideas into real software.
 
 Whether it's an AI-powered dashboard, a backend API, or an automation tool, my goal is to write clean, maintainable, and scalable code that creates practical value.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/IshitaSajeev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
