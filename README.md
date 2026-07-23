@@ -44,7 +44,7 @@ My interests lie in backend development, REST API design, machine learning integ
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,tailwind,mysql,postgres,sqlite,git,github,linux,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,tailwind,mysql,postgres,sqlite,git,github,linux,vscode"/>
 
 </div>
 
@@ -72,16 +72,6 @@ Projects include:
 - 📚 Daily Data Structures & Algorithms practice
 - ☁️ Docker & AWS deployment skills
 - 🔓 Open Source contributions
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishitasajeev&theme=github_dark"/>
-
-</div>
 
 ---
 
