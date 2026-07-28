@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1412" height="526" alt="image" src="https://github.com/user-attachments/assets/3a4c2d60-bf73-4396-8867-834e9298669d" /><div align="center">
 
 # Hi, I'm Ishita Sajeev 👋
 
@@ -25,7 +25,7 @@ Building scalable backend systems, AI-powered applications, and software that so
 
 # 👨‍💻 About Me
 
-I'm a **final-year Computer Engineering student** who enjoys building software from idea to deployment.
+I'm a **Computer Engineering Graduate** who enjoys building software from idea to deployment.
 
 My interests lie in backend development, REST API design, machine learning integration, and scalable system architecture. I believe the best way to learn is by building complete projects that solve practical problems.
 
@@ -50,28 +50,33 @@ My interests lie in backend development, REST API design, machine learning integ
 
 ---
 
-## 🐍 Python Projects Collection
+## 🚀 Featured Projects
 
-A growing collection of Python projects built to strengthen programming fundamentals and problem-solving skills.
+### [Spendara](https://github.com/IshitaSajeev/Spendara)
+> AI-powered personal finance tracker with JWT auth, ML-driven spending forecasts, and category-level insights.
 
-Projects include:
+**Tech Stack:** Django REST Framework, React, Scikit-Learn, PostgreSQL
 
-- Todo Manager
-- Calculator
-- Quiz Game
-- File Organizer
-- Automation Scripts
-- CLI Utilities
+[![Spendara](https://github-readme-stats.vercel.app/api/pin/?username=IshitaSajeev&repo=Spendara)](https://github.com/IshitaSajeev/Spendara)
+
+---
+
+### [Replasify](https://github.com/IshitaSajeev/Replasify)
+> Smart plastic recycling and waste management platform built using Django and Bootstrap.
+
+**Tech Stack:** Django, Bootstrap, JavaScript, SQLite
+
+[![Replasify](https://github-readme-stats.vercel.app/api/pin/?username=IshitaSajeev&repo=Replasify)](https://github.com/IshitaSajeev/Replasify)
 
 ---
 
 # 📌 Currently Building
 
-- 🤖 AI-powered backend applications
-- 🌐 Production-ready REST APIs
-- 📚 Daily Data Structures & Algorithms practice
-- ☁️ Docker & AWS deployment skills
-- 🔓 Open Source contributions
+- 🐳 **Containerizing Django Apps:** Writing production-ready `Dockerfile`s and `docker-compose.yml` for my projects.
+- ☁️ **Cloud Deployment:** Learning to deploy applications on AWS EC2 and S3.
+- ✅ **Testing in Python:** Writing unit tests with `pytest` to build more reliable software.
+- 🧠 **ML Integration:** Building practical machine learning features (like spending forecasts) into web apps.
+- 📖 **Open Source:** Actively looking for my first meaningful contribution to a Django or Python open-source project.
 
 ---
 
