@@ -1,5 +1,3 @@
-<img width="1412" height="526" alt="image" src="https://github.com/user-attachments/assets/3a4c2d60-bf73-4396-8867-834e9298669d" /><div align="center">
-
 # Hi, I'm Ishita Sajeev 👋
 
 ### Backend Developer • Python • Django • Machine Learning
