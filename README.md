@@ -18,7 +18,7 @@ Building scalable backend systems, AI-powered applications, and software that so
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+REST[...]
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Machine+Learning+Enthusiast;Building+Projects+That+Matter"/>
 
 </div>
 
@@ -123,13 +123,9 @@ From backend APIs to AI-powered applications, my goal is to create clean, mainta
 
 <div align="center">
 
-<a href="https://github.com/IshitaSajeev">
-<img src="https://github-readme-stats.vercel.app/api?username=IshitaSajeev&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_title=true" alt="Ishita's GitHub stats" style="display:inline-block;margin:10px;"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=IshitaSajeev&show_icons=true&theme=github_dark"/>
 
-<a href="https://github.com/IshitaSajeev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSajeev&layout=compact&theme=github_dark&hide_title=true" alt="Top Languages" style="display:inline-block;margin:10px;"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSajeev&layout=compact&theme=github_dark"/>
 
 </div>
 
