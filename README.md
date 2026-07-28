@@ -16,8 +16,6 @@ Building scalable backend systems, AI-powered applications, and software that so
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=IshitaSajeev&label=Profile%20Views&color=0e75b6&style=flat"/>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Machine+Learning+Enthusiast;Building+Projects+That+Matter"/>
