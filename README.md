@@ -1,67 +1,58 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Ishita Sajeev 👋</h1>
 
-# Hi, I'm Ishita Sajeev 👋
-
-### Backend Developer • Python • Django • Machine Learning
-
-Building scalable backend systems, AI-powered applications, and software that solves real-world problems.
-
-<p>
-<a href="https://github.com/IshitaSajeev">
-<img src="https://img.shields.io/badge/GitHub-IshitaSajeev-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ishita-sajeev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishitasajeev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://your-deployed-app.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Machine+Learning+Enthusiast;Building+Projects+That+Matter"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IshitaSajeev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Engineering graduate** passionate about building backend systems, AI-powered applications, and practical software solutions.
+I'm a Computer Engineering graduate passionate about building **backend systems**, **AI-powered applications**, and **practical software solutions**.
 
-My interests include:
-
-- Backend Development
-- REST API Design
-- Machine Learning Integration
-- Database Design
-- Scalable System Architecture
+My interests lie in:
+- **Backend Development** with Python & Django
+- **REST API Design** & System Architecture
+- **Machine Learning Integration** into web apps
+- **Database Design** & Optimization
+- **Scalable, Production-Ready Systems**
 
 I believe the best way to learn engineering is by building complete projects that solve real-world problems.
 
 ---
 
-# 🔥 Current Focus
+## 🛠️ Tech Stack & Tools
 
-- Backend Engineering with **Python & Django**
-- Building REST APIs using **Django REST Framework**
-- Integrating Machine Learning into applications
-- Improving Data Structures & Algorithms skills
-- Learning Docker and Cloud Deployment
-- Contributing to Open Source
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ML & Data
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-# 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,tailwind,mysql,postgres,sqlite,git,github,linux,vscode"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ## 💰 Spendara
 
@@ -99,19 +90,20 @@ AI-enabled emergency response system integrating hardware and software for faste
 **Tech Stack:**
 `ESP32` `Python` `Django` `MongoDB` `Twilio API`
 
----
-
-# 📌 Currently Building
-
-- 🐳 Containerizing Django applications using Docker
-- ☁️ Exploring cloud deployment workflows
-- ✅ Adding automated testing with PyTest
-- 🧠 Building ML-powered features for real-world applications
-- 📖 Exploring Python and Django open-source contributions
 
 ---
 
-# 💡 Why I Build
+## 📌 What I'm Currently Building & Learning
+
+- 🐳 **Containerizing Django Apps:** Writing production-ready `Dockerfile`s and `docker-compose.yml` for my projects
+- ☁️ **Cloud Deployment:** Learning to deploy applications on AWS EC2 and S3
+- ✅ **Testing in Python:** Writing unit tests with `pytest` to build more reliable software
+- 🧠 **ML Integration:** Building practical machine learning features (like spending forecasts) into web apps
+- 📖 **Open Source:** Actively looking for my first meaningful contribution to a Django or Python open-source project
+
+---
+
+## 💡 Why I Build
 
 I enjoy transforming ideas into working software.
 
@@ -119,20 +111,15 @@ From backend APIs to AI-powered applications, my goal is to create clean, mainta
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IshitaSajeev&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSajeev&layout=compact&theme=github_dark"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=IshitaSajeev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSajeev&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-<div align="center">
-
 ### ⭐ Thanks for visiting my profile!
 
-</div>
+"Code. Learn. Build. Repeat."
