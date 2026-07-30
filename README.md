@@ -3,11 +3,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ishitasajeev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <br/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Machine+Learning+Enthusiast;Building+Projects+That+Matter"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Python+%7C+Django+%7C+REST+APIs;Machine+Learning+Enthusiast;Building+Projects+That+Matter"/>
 </p>
 
 ---
@@ -24,6 +25,44 @@ My interests lie in:
 - **Scalable, Production-Ready Systems**
 
 I believe the best way to learn engineering is by building complete projects that solve real-world problems.
+
+---
+
+## 🎯 Direction
+
+> *Building systems that transform data into decisions, and ideas into impact.*
+
+I'm focused on becoming a **full-stack engineer** who can:
+- **Design** scalable, maintainable backend architectures
+- **Build** production-ready REST APIs with Django and FastAPI
+- **Integrate** machine learning into real-world applications
+- **Deploy** containerized applications using Docker and cloud platforms
+
+My current learning path is structured around:
+1. **Mastering Django & Django REST Framework** – Building robust, secure backends
+2. **ML Integration** – Adding intelligence to applications (forecasting, classification)
+3. **DevOps** – Docker, AWS, and CI/CD for production deployments
+4. **System Design** – Understanding how to build systems that scale
+
+---
+
+## 🛠️ Craft
+
+> *Clean code, thoughtful architecture, and continuous improvement.*
+
+What "craft" means to me:
+
+| Principle | How I Practice It |
+| :--- | :--- |
+| **🧹 Clean Code** | Write readable, maintainable code with clear naming and structure |
+| **🏗️ Architecture** | Design systems with separation of concerns and scalability in mind |
+| **📝 Documentation** | Create READMEs that explain the "why" behind the code |
+| **🔬 Testing** | Write tests to ensure reliability and catch bugs early |
+| **🔄 Iterate** | Continuously refactor and improve based on new learnings |
+| **🌱 Learn** | Always explore new tools, patterns, and best practices |
+
+**My engineering philosophy:**
+> "Code is read more often than it's written. Write for the next developer who reads it."
 
 ---
 
@@ -54,7 +93,7 @@ I believe the best way to learn engineering is by building complete projects tha
 
 ## 🚀 Featured Projects
 
-## 💰 Spendara
+### 💰 Spendara
 
 AI-powered personal finance management platform with authentication, expense tracking, and ML-based spending insights.
 
@@ -65,7 +104,7 @@ AI-powered personal finance management platform with authentication, expense tra
 
 ---
 
-## ♻️ Replasify
+### ♻️ Replasify
 
 Smart waste management platform designed to encourage plastic recycling through a digital platform.
 
@@ -76,7 +115,7 @@ Smart waste management platform designed to encourage plastic recycling through 
 
 ---
 
-## 🚨 Smart Emergency Assistance Platform
+### 🚨 Smart Emergency Assistance Platform
 
 AI-enabled emergency response system integrating hardware and software for faster assistance.
 
@@ -89,7 +128,6 @@ AI-enabled emergency response system integrating hardware and software for faste
 
 **Tech Stack:**
 `ESP32` `Python` `Django` `MongoDB` `Twilio API`
-
 
 ---
 
