@@ -100,8 +100,7 @@ AI-powered personal finance management platform with authentication, expense tra
 **Tech Stack:**
 `Django REST Framework` `React` `Scikit-Learn` `PostgreSQL`
 
-[![Spendara](https://github-readme-stats.vercel.app/api/pin/?username=IshitaSajeev&repo=Spendara)](https://github.com/IshitaSajeev/Spendara)
-
+[![View Repository](https://img.shields.io/badge/View_Spendara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshitaSajeev/Spendara)
 ---
 
 ### ♻️ Replasify
@@ -111,7 +110,7 @@ Smart waste management platform designed to encourage plastic recycling through 
 **Tech Stack:**
 `Django` `Bootstrap` `JavaScript` `SQLite`
 
-[![Replasify](https://github-readme-stats.vercel.app/api/pin/?username=IshitaSajeev&repo=Replasify)](https://github.com/IshitaSajeev/Replasify)
+[![View Repository](https://img.shields.io/badge/View_Replasify-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshitaSajeev/Replasify)
 
 ---
 
