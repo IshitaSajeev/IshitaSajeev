@@ -152,7 +152,7 @@ From backend APIs to AI-powered applications, my goal is to create clean, mainta
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://coolreadme.xyz/api/streak-plain?user=IshitaSajeev&theme=dark&accent=%23F59E0B" />
+  <img src="https://streak-stats.demolab.com/?user=IshitaSajeev&background=0D1117&border=0000&stroke=F59E0B&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F59E0B&sideLabels=94A3B8&dates=64748B&hide_border=false" width="600" />
 </div>
 
 ---
