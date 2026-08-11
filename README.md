@@ -24,7 +24,7 @@ My interests lie in:
 - **Database Design** & Optimization
 - **Scalable, Production-Ready Systems**
 
-I believe the best way to learn engineering is by building complete projects that solve real-world problems.
+I believe the best way to learn engineering is by building complete projects that solve real-world problems
 
 ---
 
